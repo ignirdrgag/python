@@ -1,0 +1,5 @@
+nombre1=input("entrer un le premier nombre:")
+print(type(nombre1))
+nombre2=input("entrer le deuxieme nombre ")
+addition= int(nombre1)+int(nombre2)
+print('la somme est ' ,addition)
